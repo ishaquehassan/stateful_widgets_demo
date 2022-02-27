@@ -49,7 +49,7 @@ class HomeState extends State<HomeScreen> {
               style: TextStyle(fontSize: 65),
             ),
             ElevatedButton(
-              child: const Text('Update Ttext'),
+              child: const Text('Update Ttext for new commit'),
               onPressed: updateName,
             )
           ],
